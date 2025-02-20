@@ -14,3 +14,10 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+
+## Screenshots
+
+![Home page](./images/homepage.png)
+![Book a Table page](./images/bookatable.png)
+![Menu page](./images/menu.png)
+![footer page](./images/footer.png)
