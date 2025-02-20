@@ -14,6 +14,7 @@
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
+  box-sizing: border-box;
 }
 .header__span-accent {
   display: block;
@@ -25,7 +26,7 @@
 .header__description {
   margin: 28px 0 0;
   max-width: 683px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
